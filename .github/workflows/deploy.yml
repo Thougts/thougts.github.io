@@ -1,0 +1,40 @@
+name: Deploy Hexo Blog
+
+on:
+  push:
+    branches:
+      - main  # 注意：如果你的主分支是 master，请这里改为 master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 显式授予写入权限，用于推送到 gh-pages 分支
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true # 如果你的主题是作为 submodule 引入的，必须设为 true
+          # fetch-depth: 0 # 如果需要使用提交记录生成文章更新时间，建议取消注释
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # 建议使用 LTS 版本，如 18 或 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Build Hexo
+        run: npx hexo generate
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }} # 自动使用 GitHub 提供的临时 Token
+          publish_dir: ./public # Hexo 默认生成的静态文件目录
+          commit_message: ${{ github.event.head_commit.message }}
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
