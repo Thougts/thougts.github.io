@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "0f313f7922bfe37d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd7188ea6cd899ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a78abea9ea621f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/批处理的实验.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "批处理的实验"
+            }
+          },
+          {
+            "id": "afa1d941f8318844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/北大的两名铮铮铁骨：林昭与黄立众.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "北大的两名铮铮铁骨：林昭与黄立众"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca1db9003b586c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "f17c703393f305ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea33ecd9a6f1daf3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aefb23c29857e9d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "420a19ce34f755b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae504615086d6f66",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cf3b9d054ee3780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50f8cac7e73e86db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/批处理的实验.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 批处理的实验"
+            }
+          },
+          {
+            "id": "2504e0a214846846",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/批处理的实验.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 批处理的实验"
+            }
+          },
+          {
+            "id": "3ef63e8caad17b7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "13cbcffc0be3887c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b5fd2270fe3cf06a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/批处理的实验.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 批处理的实验"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
+    }
+  },
+  "active": "afa1d941f8318844",
+  "lastOpenFiles": [
+    "source/_posts/第七次实验2.md",
+    "source/_posts/北大的两名铮铮铁骨：林昭与黄立众.md",
+    "source/_posts/第五次实验.md",
+    "source/_posts/冒姓琅琊的启示.md",
+    "source/_posts/批处理的实验.md",
+    "source/_posts/第七次实验.md",
+    "public/tags/台湾/index.html",
+    "public/tags/台湾",
+    "public/tags/Landscape/index.html",
+    "public/tags/Landscape",
+    "public/js/schemes/pisces.js",
+    "public/js/schemes/muse.js",
+    "public/js/utils.js",
+    "public/js/schemes",
+    "public/js/local-search.js",
+    "public/js/next-boot.js",
+    "public/images/logo.svg",
+    "public/images/favicon-32x32-next.png",
+    "public/images/favicon-16x16-next.png",
+    "public/images/cc-zero.svg",
+    "public/images/cc-by.svg",
+    "public/images/cc-by-sa.svg",
+    "public/images/cc-by-nd.svg",
+    "public/images/cc-by-nc.svg",
+    "public/images/cc-by-nc-sa.svg",
+    "public/images/cc-by-nc-nd.svg"
+  ]
+}

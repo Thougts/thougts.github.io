@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "17bb2f542b94f3ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ce058c893cccded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbbf35477e3fd027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "批处理的实验.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "批处理的实验"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30cf9f461aa29c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "50413a39e9989553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7635bad58e4d7917",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ea876d690931268d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2dd21ee61fd93144",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9b92e161a6dff79",
+    "type": "split",
+    "children": [
+      {
+        "id": "371d47c01f3ffa5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9dc3296a98ca8de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "习持续掌握大权，而且很难被动摇.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 习持续掌握大权，而且很难被动摇"
+            }
+          },
+          {
+            "id": "81d10e3322537388",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "习持续掌握大权，而且很难被动摇.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 习持续掌握大权，而且很难被动摇"
+            }
+          },
+          {
+            "id": "cd816050cdaea1c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "247c4d93b48bb545",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "习持续掌握大权，而且很难被动摇.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 习持续掌握大权，而且很难被动摇"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dbbf35477e3fd027",
+  "lastOpenFiles": [
+    "习持续掌握大权，而且很难被动摇.md",
+    "泉州公安局对台湾的温子渝和陈柏源发出通缉令.md",
+    "批处理的实验.md",
+    "hello-world.md",
+    "模板/博客模板.md",
+    "模板"
+  ]
+}

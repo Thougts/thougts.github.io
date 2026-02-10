@@ -101,4 +101,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  # 原来的：repo: https://github.com/thougts/thougts.github.io.git
+  # repo: git@github.com-thougts:Thougts/thougts.github.io.git  # <-- 必须切换为这个格式
+  repo: git@github-thougts:Thougts/thougts.github.io.git  # 关键：使用自定义Host
+  branch: main

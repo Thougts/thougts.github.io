@@ -1,0 +1,31 @@
+# ---------------------------------------------------------------
+# Next 主题覆盖配置 (Override Config)
+# ---------------------------------------------------------------
+
+# 1. 激活 Waline 评论系统
+comments:
+  active: waline
+  storage: true
+  lazyload: false
+  nav:
+    waline:
+      text: Waline
+      order: 1
+
+# 2. Waline 详细配置
+waline:
+  enable: true
+  serverURL: 'https://144.24.80.205.sslip.io' # 你的服务器地址
+  placeholder: 既然来了，不说点什么吗？        # 评论框默认文字
+  avatar: mm             # 头像风格 (mm/identicon/monsterid/wavatar/retro)
+  meta: [nick, mail, link] # 评论者需要填的信息
+  requiredMeta: [nick]     # 必填项 (建议只留昵称，降低评论门槛)
+  pageSize: 10             # 每页显示多少条
+  lang: zh-cn              # 语言
+  visitor: false           # 阅读量统计 (Next 自带不蒜子，建议先关掉 Waline 的避免重复)
+  comment_count: true      # 显示评论数
+  
+  # 3. 开启表情包和互动 (可选，让你两个博客体验一致)
+  emoji:
+    - https://unpkg.com/@waline/emojis@1.2.0/bilibili
+    - https://unpkg.com/@waline/emojis@1.2.0/weibo
