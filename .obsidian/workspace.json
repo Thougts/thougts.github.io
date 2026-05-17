@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "什么是一国两制？.md",
+                "file": "source/_posts/什么是一国两制？.md",
                 "mode": "source",
                 "source": false
               },
@@ -238,10 +238,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4f869f823fd926a",
+  "active": "ea33ecd9a6f1daf3",
   "lastOpenFiles": [
     "source/_posts/北大的两名铮铮铁骨：林昭与黄立众.md",
-    "什么是一国两制？.md",
+    "source/_posts/什么是一国两制？.md",
     "sepwolves.github.io",
     "temp_life/objects/pack/tmp_pack_q7NAo0",
     "temp_life/objects/pack/tmp_pack_bf6feF",
